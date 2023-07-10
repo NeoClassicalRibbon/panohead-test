@@ -12,3 +12,5 @@ https://github.com/SizheAn/PanoHead
 https://github.com/camenduru/PanoHead-colab
 
 ## HowTo
+EN: https://medium.com/@neoclassicalribbon/ai-panohead-for-3d-conversion-of-stable-diffusion-face-images-987550d221c8
+日本語: https://note.com/takumi__ncr/n/nc9185593c1da
